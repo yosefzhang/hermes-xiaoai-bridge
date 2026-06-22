@@ -1,0 +1,1 @@
+mijiaAPI @ git+https://github.com/yosefzhang/mijia-api.git

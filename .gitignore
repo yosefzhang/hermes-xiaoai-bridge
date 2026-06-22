@@ -1,0 +1,17 @@
+# Python 环境
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# 环境变量文件
+*.env
+.env.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
