@@ -1,1 +1,4 @@
+requests>=2.32.5
+aiohttp>=3.9.0
+miservice>=0.0.0
 mijiaAPI @ git+https://github.com/yosefzhang/mijia-api.git
